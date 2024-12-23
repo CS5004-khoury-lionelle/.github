@@ -8,6 +8,7 @@ Each semester taught contains an organization repo.
 
 * [Summer 2024 Syllabus](https://github.com/Su24-CS5004-Online-Lionelle)
 
+* [Spring 2025 Syllabus](https://github.com/Sp25-CS5004-Online-Lionelle)
 
 
 ## Team Activities 
